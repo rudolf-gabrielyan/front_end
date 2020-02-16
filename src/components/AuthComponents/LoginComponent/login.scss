@@ -1,0 +1,21 @@
+.goSignup {
+
+    font-size: 15px;
+    color: #3F51B5;
+
+    :visited {
+        color: #3F51B5;
+    }
+
+}
+.loginError {
+    font-size: 14px;
+    color: red;
+    margin:0;
+}
+.loginWith {
+	width:100%;
+	display:flex;
+	justify-content: center;
+	margin-top:30px;
+}
